@@ -45,7 +45,7 @@
                                 showConfirmButton: false,
                                 timer: 1500,
                                 willClose: () => {
-                                window.location.href = '/dashboard.php';  I just put that it goes dashboard.php but you can make a different one yourself. 
+                                window.location.href = '/dashboard.php';  <---- CHANGE THIS TO ANYTHING YOU WANT!
                                 }
                             });
                         } else {
